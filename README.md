@@ -8,7 +8,6 @@ The project includes a Vite/React frontend and a FastAPI backend. Workflows are 
 
 <img width="1917" height="932" alt="image" src="https://github.com/user-attachments/assets/9b0854bd-2bbf-4809-bbc6-e0018bbddb18" />
 
-<img width="1917" height="932" alt="image" src="https://github.com/user-attachments/assets/d3629b9a-f493-48be-877e-725f58fab0ab" />
 
 
 ## Features

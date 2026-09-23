@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+google-generativeai
+openai
+python-dotenv
+aiosqlite
+aiohttp
+websockets
+qrcode[pil]
